@@ -6,3 +6,6 @@ add(X,Y) ->
 
 add(X,Y,Z) ->
   X + Y +Z.
+
+%
+%
